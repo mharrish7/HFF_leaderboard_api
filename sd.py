@@ -1,7 +1,6 @@
 import requests
 
 
-token = "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"
 
 headers = {'Authorization': 'token ' + token}
 
